@@ -1,0 +1,10 @@
+
+tr.clickable-row:hover {
+  background: #f2f3ff;
+  cursor: pointer;
+}
+#refresh{
+width: 25px;
+height: 25px;
+
+}
